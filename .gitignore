@@ -133,3 +133,5 @@ dmypy.json
 
 # Data
 raw_data/
+password.py
+.idea/
